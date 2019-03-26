@@ -1,0 +1,6 @@
+ipython
+pandas
+nltk
+googletrans
+spacy
+word2number
